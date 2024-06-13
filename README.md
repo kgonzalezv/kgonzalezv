@@ -24,8 +24,11 @@ I'm a passionate Java Developer with a love for creating clean, efficient, and s
 ## 📚 Featured Projects
 
 
-### [CasCard API](https://github.com/katiuska012011/cashcardApiRest)
-An CashCard API application developed with Java and Spring Boot for backend, implement some security and persitence with Hibernate
+### [CashCard API](https://github.com/katiuska012011/cashcardApiRest)
+An Rest API developed with Java and Spring Boot for backend, implement some security and persitence with Hibernate
+
+### [Hotel](https://github.com/katiuska012011/HotelAlura)
+Entire crud Application develop with Java Swing.
 
 ## 📫 How to Reach Me
 
