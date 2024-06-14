@@ -2,9 +2,6 @@
 
 ### Java Developer | Tech Enthusiast | Lifelong Learner
 
----
-[![Harlok's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=Katiuska012011)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Katiuska's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katiuska012011&show_icons=true&theme=radical)
 
 ---
