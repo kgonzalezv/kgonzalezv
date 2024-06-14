@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Katiuska Gonzalez
+# Hello, I'm Katiuska 👋 👩‍💻
 
 ### Java Developer | Tech Enthusiast | Lifelong Learner
 
