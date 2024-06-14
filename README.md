@@ -21,10 +21,14 @@ I'm a passionate Java Developer with a love for creating clean, efficient, and s
 
 
 ### [CashCard API](https://github.com/katiuska012011/cashcardApiRest)
-An Rest API developed with Java and Spring Boot for backend, implement some security and persitence with Hibernate
+The CashCard API is a RESTful web service designed to manage cash cards, 
+including operations such as creating, updating, deleting, and retrieving card information. The API is built using Java and Spring Boot, ensuring a robust and scalable solution.
+**Skills |** Java, Spring Boot, REST, MYSQL, Hbernate, JUnit, Spring Security,   
 
 ### [Hotel](https://github.com/katiuska012011/HotelAlura)
-Entire crud Application develop with Java Swing.
+HotelApp is an Java Swing application to customer set reservation and calculate the price of nights in base hotel politicy. 
+**Skills |** Java Swing, JDBC, MySQL   
+
 
 ## 📫 How to Reach Me
 
@@ -32,8 +36,6 @@ Entire crud Application develop with Java Swing.
 - Email: katiuska012011@gmail.com
 
 ## 🌱 Currently Learning
-
-- Microservices Architecture
 - Docker
 
 ---
