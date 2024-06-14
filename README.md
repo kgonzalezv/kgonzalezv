@@ -34,6 +34,7 @@ HotelApp is an Java Swing application to customer set reservation and calculate 
 
 - LinkedIn: [Katiuska Gonzalez](https://www.linkedin.com/in/katiuskagonzalez/)
 - Email: katiuska012011@gmail.com
+- Phone:  829 935 1245
 
 ## 🌱 Currently Learning
 - Docker
