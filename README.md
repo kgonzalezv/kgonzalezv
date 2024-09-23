@@ -37,7 +37,7 @@ HotelApp is an Java Swing application to customer set reservation and calculate 
 - Phone:  829 935 1245
 
 ## 🌱 Currently Learning
-- Docker
+- JavaScript | Ract
 
 ---
 
