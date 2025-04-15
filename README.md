@@ -1,6 +1,6 @@
 # Hello, I'm Katiuska 👋 👩‍💻
 
-### Java Developer | Tech Enthusiast | Lifelong Learner
+### Software Engineer | Tech Enthusiast | Lifelong Learner
 
 ---
 
